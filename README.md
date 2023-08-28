@@ -13,7 +13,7 @@ We recommend the use of Anaconda during the Summer School.
 **Step 2** Create a dedicated environment for the Summer School with Python 3. Instructions on how to create an environment can be found [here](https://docs.anaconda.com/free/navigator/tutorials/manage-environments/) 
 
 **Step 3** In your environment, please install the following
-- Tensorflow with CUDA ([instructions](https://www.tensorflow.org/install/pip))
+- Pytorch with CUDA ([instructions](https://pytorch.org/get-started/locally/))
 
 ### With Colab
 
