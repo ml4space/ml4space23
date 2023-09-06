@@ -18,3 +18,8 @@ We recommend the use of Anaconda during the Summer School.
 ### With Colab
 
 Alternatively, you can use [Colab](https://colab.research.google.com/) through your Google account
+
+
+## Hackathon
+
+Kaggle competition [here](https://www.kaggle.com/t/5cb14a6e728e4bf5899531f49755f7c6)
